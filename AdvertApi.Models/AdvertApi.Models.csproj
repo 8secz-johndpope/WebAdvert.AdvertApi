@@ -1,7 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Mehul</Authors>
+    <Product>Web Advert Microservices</Product>
+    <Company>MP SoftTech</Company>
+    <PackageProjectUrl>https://github.com/mbhavsar1994/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mbhavsar1994/WebAdvert.AdvertApi</RepositoryUrl>
+    <AssemblyName>My.Custom.AdvertApi.Models</AssemblyName>
+    <RootNamespace>My.Custom.AdvertApi.Models</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
